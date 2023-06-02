@@ -1,7 +1,3 @@
 plugins {
-    id("java-library")
-}
-
-dependencies {
-    implementation(project(":core"))
+    id("jcon.library-conventions")
 }

@@ -11,7 +11,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "jcon-si-structure"
 include(
-    "core",
     "library",
     "web-app"
 )
